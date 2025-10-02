@@ -44,9 +44,6 @@ Welcome to my GitHub profile! I’m passionate about **Digital IC Design** and *
     <img alt="Aswin | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
   </a>
 
-  <a href="https://www.instagram.com/vinayak_prakash_yt?utm_source=qr&igsh=azhiemVjNHpsbGlj" target="_blank">
-    <img alt="Aswin | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-  </a>
 
   
 </p>
