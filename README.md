@@ -24,7 +24,14 @@ Welcome to my GitHub profile! I’m passionate about **Digital IC Design** and *
 
 
 
-<h3 align="center">Welcome to my GitHub profile! I’m passionate about Digital IC Design and Analog IC Design. I enjoy working on projects related to FPGAs, Analog Circuits Designing, OpenCV, and I love contributing to open-source.</h3>
+<h3 align="center">Welcome to my GitHub profile! I’m passionate about Digital IC Design and Analog IC Design. I enjoy working on projects related to FPGAs, Analog Circuits Designing, OpenCV, and I love contributing to open-source. 
+  
+🚀 **What I’m working on right now:**
+- Building cool stuff with **FPGAs**.
+- Learning **Analog & Digital IC Designing**.
+- Passionate about **GPUs**.
+- Research on **In-Memory Computing**, **Communication Systems**
+</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aswinsilicon&label=Profile%20views&color=0e75b6&style=flat" alt="aswinsilicon" />
