@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m passionate about **Digital IC Design** and *
 - Building cool stuff with **FPGAs**.
 - Learning **Analog & Digital IC Designing**.
 - Passionate about **GPUs**.
-- Research on **In-Memory Computing**.
+- Research on **In-Memory Computing**, **Communication Systems**
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinsilicon&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
